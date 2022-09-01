@@ -27,6 +27,6 @@ public class SegundaActivity extends Activity {
 
     }
     public Double calculaIMC(Double peso, Double altura){
-        return peso/(altura*altura);
+        return peso/(altura*altura) ;
     }
 }
